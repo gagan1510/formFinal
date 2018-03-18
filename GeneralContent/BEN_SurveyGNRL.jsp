@@ -3,7 +3,7 @@
   <head>
     
     <meta charset="utf-8">
-    <title>In-Situ Slum Development Form</title>
+    <title>Beneficiary Registration General</title>
     <script src="js/jquery-3.3.1.js"></script>
     <script src="js/materialize.js"></script>
     <script src="js/material.js"></script>
